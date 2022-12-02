@@ -92,6 +92,63 @@
     padding-bottom: 94px;
 }
 
+
+/* Benefits */
+.benefits {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.benefits__item {
+    width: 50%;
+}
+
+/* applying */
+.applying {
+    background-color: #FFF8E4;
+    margin-top: 150px;
+}
+
+.applying__heading {
+    text-align: center;
+    font-weight: 600;
+    font-size: 50px;
+    line-height: 60px;
+    padding-top: 120px;
+}
+
+.applying__list {
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+}
+
+.applying__item {
+    width: 30%;
+    padding-top: 80px;
+    padding-bottom: 150px;
+}
+
+/* BOOST */
+.boost__list {
+    display: flex;
+}
+
+/* REVOLUT */
+.revolut__wrap {
+    display: flex;
+    background-color: #C9E8F2;
+}
+
+
+
+
+
+
+
+
+
+
 /* FOOTER */
 /* .footer {
     color: white;
